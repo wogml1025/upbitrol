@@ -6,4 +6,5 @@ app_name = 'exchangeapp'
 
 urlpatterns = [
     path('', exchange, name='exchange')
+
 ]
