@@ -1,18 +1,15 @@
 ㄷㅗㅇ규 동ㅠㅠㅠ뀨미넒ㅇㅏㅓㄴㅏㄹ
 닥터페페페페페페 ㅋㅋㅋㅋㅋㅋ
 미ㅆㅔㅔㅔ
-<<<<<<< HEAD
 
 def jaeheeka 
     sokjdflaskd
 sdafsdf
 return jaeheeka
-=======
+
 가
 재
 희
 사
 랑
 해
-
->>>>>>> bd5a3539a272327cd3a9c5fb6faafe58377c5d58
